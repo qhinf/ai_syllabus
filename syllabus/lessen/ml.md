@@ -1,6 +1,6 @@
 # Machine Learning
 
-## Leerdoelen:
+## Leerdoelen
 
 * Je weet wat machine learning is
 
@@ -12,9 +12,9 @@
 
 * Je kunt de programmeeromgeving installeren (jupyter notebook)
 
-## Voorbereiding:
+## Voorbereiding
 
-### Bekijk de video's en beantwoord de bijbehorende vragen:
+### Bekijk de video's en beantwoord de bijbehorende vragen
 
 1. [Crash Course Supervised Learning](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3) (15 min)
 
@@ -46,7 +46,7 @@ De volgende vragen en filmpjes zijn niet verplicht, maar als je tijd hebt dan zi
 
     2. *Leg kort het verschil uit tussen exploitation en exploration.*
 
-## Tijdens de les:
+## Tijdens de les
 
 In deze les leggen we uit hoe we machines iets kunnen laten leren. Een groot deel van de les gaan jullie ook zelf aan de slag met een programmeeropdracht om je computer te leren om handgeschreven cijfers te herkennen. Ook helpen we je als je problemen hebt met het opzetten van de programmeeromgeving. Daarnaast gaan we de basis van de propositielogica behandelen en er zal tijd zijn om met je groepje aan het eindproject te werken.
 
@@ -66,6 +66,6 @@ Maak een kopie van onze Google Colab, zodat je het project kan aanpassen. Downlo
 
 Je kunt nu beginnen met je opdracht.
 
-## Opdracht na de les:
+## Opdracht na de les
 
 Maak de programmeeropdracht van de les zo ver mogelijk af en beantwoord de reflectievragen van deze les in je portfolio.

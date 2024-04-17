@@ -1,6 +1,6 @@
 # Brein & Cognitie
 
-## Leerdoelen:
+## Leerdoelen
 
 * Je hebt een basis idee van hoe je brein leert
 
@@ -8,9 +8,9 @@
 
 * Je bent bewust van de valkuilen van je hersenen en kunt redeneren of we deze willen nabootsen in AI of niet
 
-## Voorbereiding:
+## Voorbereiding
 
-### Bekijk de video's:
+### Bekijk de video's
 
 1. Een korte introductie over BCI:
 
@@ -24,10 +24,10 @@
 
 [Neuroscience and Artificial Intelligence Need Each Other](https://youtu.be/97iYdJE9mQ4) (23 min)
 
-## Tijdens de les:
+## Tijdens de les
 
 Je leert hoe je hersenen informatie filtert. We maken een vergelijking tussen het brein en de computer en denken na over wat we van de hersenen terug willen zien in AI. Ook introduceren we je aan Neural Networks.
 
-## Opdracht na de les:
+## Opdracht na de les
 
 Beantwoord de reflectievragen van deze les in je portfolio. 

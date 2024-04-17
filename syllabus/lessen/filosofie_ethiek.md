@@ -1,6 +1,6 @@
 # Filosofie & Ethiek
 
-## Leerdoelen:
+## Leerdoelen
 
 * Je kunt hedendaagse en toekomstige ethische problemen beschrijven
 
@@ -8,9 +8,9 @@
 
 * Je weet hoe je verschillende perspectieven kunt beargumenteren
 
-## Voorbereiding:
+## Voorbereiding
 
-### Bekijk de video's:
+### Bekijk de video's
 
 1. [Do Robots Deserve Rights?](https://youtu.be/DHyUYg8X31c) (6 min)
 
@@ -22,7 +22,7 @@
 
 5. [Determinism vs Free Will](https://www.youtube.com/watch?v=vCGtkDzELAI) (10 min) (**Optioneel**)
 
-### Verzin stellingen:
+### Verzin stellingen
 
 Bedenk zelf 2 (eens/oneens) stellingen over filosofische onderwerpen van AI. Probeer zelf dingen op te zoeken maar hieronder staan wat bronnen voor inspiratie!
 Artikelen/papers voor (eventuele) inspiratie:
@@ -41,10 +41,10 @@ Artikelen/papers voor (eventuele) inspiratie:
 ["Artificial Intelligence" in the Russian-Ukrainian war](https://www.newgeopolitics.org/2022/06/13/artificial-intelligence-in-the-russian-ukrainian-war/#:~:text=Ukraine%20uses%20the%20capabilities%20of,of%20communication%20 with%20 Russian%20 citizens)
 Vind jij het gebruiken van AI tijdens een oorlog een goede of een slechte ontwikkeling? Beargumenteer je antwoord. 
 
-## Tijdens de les:
+## Tijdens de les
 
 Tijdens de les ga je discussies voeren op basis van de stellingen die jij en je mede klasgenoten hebben verzonnen.
 
-## Opdracht na de les:
+## Opdracht na de les
 
 Beantwoord de reflectievragen van deze les in je portfolio.

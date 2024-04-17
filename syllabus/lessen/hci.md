@@ -1,6 +1,6 @@
 # Human Computer Interaction
 
-## Leerdoelen:
+## Leerdoelen
 
 * Je weet wat HCI & HRI is
 
@@ -12,9 +12,9 @@
 
 * Je kent de verschillende vormen van prototypes
 
-## Voorbereiding:
+## Voorbereiding
 
-### Bekijk de video's en beantwoord de bijbehorende vragen:
+### Bekijk de video's en beantwoord de bijbehorende vragen
 
 1. [Human Computer Interaction](https://youtu.be/cGRWKeSJy5s) (7 min)
 
@@ -28,7 +28,7 @@
 
 4. [The Evolution of Human-Robot Interaction ](https://youtu.be/SOtPCX7Bs4o)(3 min)
 
-### Optioneel:
+### Optioneel
 
 Je kan als je wilt ook een kijkje nemen naar deze twee leuke artikelen:
 
@@ -36,10 +36,10 @@ Je kan als je wilt ook een kijkje nemen naar deze twee leuke artikelen:
 
 * [Human Computer Interaction Examples](https://www.getsmarter.com/blog/market-trends/14-human-computer-interaction-examples/)
 
-## Tijdens de les:
+## Tijdens de les
 
 Je gaat kijken naar wat er allemaal bij komt kijken bij het ontwerpen van een product. Je leert wat Human Computer Interaction en Human Robot Interaction inhoud. Ook kijken we naar de verschillen tussen UI en UX design en krijg je de kans om aan het prototype van je eindproject te werken.
 
-## Opdracht:
+## Opdracht
 
 Beantwoord de reflectievragen van deze les in je portfolio.
