@@ -46,7 +46,7 @@ Het eindcijfer is gebaseerd uit twee dingen: je portfolio en de eindopdracht. De
 
 **Portfolio**: Dit is een document die je per les bijhoudt, als startpunt hebben we vast een template gemaakt (link). Je beantwoord hierin de vragen van de voorbereiding voor elke les, en de reflectievragen na elke les. Je kan deze wekelijks inleveren voor feedback en om te checken of je antwoorden voor die week voldoende zijn. Het tussendoor inleveren voor feedback is niet verplicht, maar aan het einde van de module wordt het portfolio beoordeeld met een voldoende/onvoldoende. Je moet uiteindelijk een voldoende halen om de module te halen, dus het is slim om het wekelijks te laten nakijken. Je kan zelf aangeven elke week welke opdrachten moeten worden nagekeken, zo kan je de opdrachten van een week ook iets later laten nakijken als ze nog niet af zijn.  
 In het onderstaande bestand staat uitgebreid uitgelegd wat precies de inlevermomenten van het portfolio zijn en wat we ervan verwachten.  
-Bijlagen: [Portfolio uitleg](assets/Portfolio%20uitleg%20(1).pdf) & [Portfolio template](assets/Portfolio%20template.pdf)
+Bijlagen: [Portfolio uitleg](assets/Portfolio%20uitleg.pdf) & [Portfolio template](assets/Portfolio%20template.pdf)
 
 **Eindopdracht**: Deze bestaat uit het bedenken en uitwerken van een AI applicatie. Het is de bedoeling dat de applicatie een bepaalde groep mensen kan helpen. Dat kan eigenlijk van alles zijn, jullie mogen zelf weten welke richting je op wilt, als het maar AI gebruikt.  De onderwerpen die we in de lessen bespreken moeten duidelijk aanwezig zijn in de applicatie.  
 Als je een voldoende hebt voor het portfolio is je individuele cijfer voor de groepsopdracht je eindcijfer voor de module.  
