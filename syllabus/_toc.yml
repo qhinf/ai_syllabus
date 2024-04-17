@@ -7,6 +7,10 @@ root: index
 options:
   numbered: true
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: lessen/introductie
+- file: lessen/ml
+- file: lessen/brein_cognitie
+- file: lessen/filosofie_ethiek
+- file: lessen/hci
+- file: lessen/nlp
+- file: lessen/presentaties
