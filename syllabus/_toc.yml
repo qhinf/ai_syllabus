@@ -9,8 +9,8 @@ options:
 chapters:
 - file: lessen/introductie
 - file: lessen/ml
-- file: lessen/brein_cognitie
-- file: lessen/filosofie_ethiek
-- file: lessen/hci
-- file: lessen/nlp
+- file: lessen/nlp_llm
+- file: lessen/ethiek
+- file: lessen/brein_cognitie_hci
+- file: lessen/ml2
 - file: lessen/presentaties
