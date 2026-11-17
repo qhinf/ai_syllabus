@@ -14,19 +14,15 @@
 
 Tijdens de eerste introductieles zullen wij ons voorstellen en hopen we ook jullie te leren kennen en inzicht te krijgen in jullie huidige kennis over AI. We gaan bekijken wat AI precies is aan de hand van de voorbeelden die we samen bedenken. Verder leggen we uit hoe deze module eruit ziet en wat jullie kunnen verwachten. Ook is er deze les ruimte om alvast zelf, of samen met een klasgenoot, te brainstormen over je eindproject.
 
-## Opdracht
-
-Vind een AI toepassing die jou aanspreekt, vertel kort wat je hebt gevonden en wat je hier interessanr aan vindt. 
-
 ## Vervangende opdracht
 
 **Deel 1**:
 Beantwoord de volgende vragen zodat wij jou kunnen leren kennen.
-In welke klas zit je?
-Wat weet je tot nu toe al over AI?
-Heb je programmeerervaring?
-Hoe goed beheers je de Engelse taal? (Omdat we bijvoorbeeld vaak naar Engelse filmpjes verwijzen)
-Wat hoop je te leren in deze module? 
+* In welke klas zit je?
+* Wat weet je tot nu toe al over AI?
+* Heb je programmeerervaring?
+* Hoe goed beheers je de Engelse taal? (Omdat we bijvoorbeeld vaak naar Engelse filmpjes verwijzen)
+* Wat hoop je te leren in deze module? 
 
 **Deel 2**: Kijk de volgende filmpjes en beantwoord de bijbehorende vragen
 [Crash course AI](https://www.youtube.com/watch?v=a0_lo_GDcFw)
@@ -38,12 +34,12 @@ Vraag 2: Welk voorbeeld vond je het meest bijzonder?
 
 **Deel 3**:
 Geef voor onderstaande dingen aan of het AI gebruikt. Leg uit waarom je denkt van wel of niet. 
-Google Maps navigatie
-Klantenservice chatbot
-Telefoon (smartphone)
-Koelkast
-Rekenmachine
-Spam filter
+* Google Maps navigatie
+* Klantenservice chatbot
+* Telefoon (smartphone)
+* Koelkast
+* Rekenmachine
+* Spam filter
 
 **Deel 4**: 
 Ga thuis rondlopen en kijk om je heen om een huishoudelijk apparaat te vinden of gewoon iets wat je dagelijks/vaak gebruikt thuis dat te maken heeft met AI. Wees creatief, het hoeft niet een voor de hand liggend apparaat te zijn. Schrijf op welk apparaat het is en waarom je denkt dat het met AI te maken heeft. 

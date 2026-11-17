@@ -52,9 +52,9 @@ sphinx:
     # een volgende editie.
     myst_substitutions:
       versie: "Globaal afgehandeld. Niet wijzigen."
-      deadline: "ntb"
-      deadline_uitstel_aanvragen: "ntb"
-      deadline_uitstel: "ntb"
+      deadline: "28-01-2027"
+      deadline_uitstel_aanvragen: "04-01-2027"
+      deadline_uitstel: "16-02-2027"
       docent: "..."
       docent_email: ""
 

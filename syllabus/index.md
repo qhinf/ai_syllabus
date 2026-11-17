@@ -50,7 +50,6 @@ Bijlage: [Portfolio template](assets/Portfolio%20template.pdf)
 **Eindopdracht**: Voor de eindopdracht heb je keuze uit twee verschillende richtingen: Innovatie of Techniek. In de bijlage hieronder is precies uitgelegd wat we verwachten met dit project. Het is een opdracht die veel ruitme voor eigen invulling, dus laat je creativiteit erop los!
 Bijlage: [Eindproject](assets/Eindproject.pdf)
 
-
 **Belangrijke data**:
 - Deadline voor het inleveren van de eindopdracht: **{{ deadline }}**
 - Deadline voor het aanvragen van het tweede inlevermoment: **{{ deadline_uitstel_aanvragen }}**
