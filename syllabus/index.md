@@ -48,7 +48,7 @@ dan wordt je eindcijfer gebaseerd op de presentatie en eindopdracht.
 Bijlage: [Portfolio template](assets/Portfolio%20template.pdf)
 
 **Eindopdracht**: Voor de eindopdracht heb je keuze uit twee verschillende richtingen: Innovatie of Techniek. In de bijlage hieronder is precies uitgelegd wat we verwachten met dit project. Het is een opdracht die veel ruitme voor eigen invulling, dus laat je creativiteit erop los!
-Bijlage: [Eindproject](assets/Eindproject.pdf)
+Bijlage: [Eindproject](assets/Eindproject.pdf) [Eindproject Techniek Notebook](assets/Eindopdracht_Techniek_Notebook.ipynb)
 
 **Belangrijke data**:
 - Deadline voor het inleveren van de eindopdracht: **{{ deadline }}**
